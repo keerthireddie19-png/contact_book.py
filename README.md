@@ -6,6 +6,7 @@ This is a simple Contact Book application built using Python. It allows users to
 - Add a new contact
 - View all contacts
 - Search for a contact
+- update a contact
 - Delete a contact
 
 ## Technologies Used
